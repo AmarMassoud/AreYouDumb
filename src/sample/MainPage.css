@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color: black;
+}
+.button {
+    -fx-background-color: #727070;
+
+}
+.text-field {
+    -fx-background-color: black;
+    -fx-text-fill: black;
+    -fx-accent: black;
+    -fx-highlight-text-fill: black;
+}
